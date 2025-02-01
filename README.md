@@ -36,6 +36,9 @@ This project implements a **Convolutional Neural Network (CNN)** to detect wheth
 
 ![image](https://github.com/user-attachments/assets/330ea467-7030-4f21-b6ae-8dc09046d912)
 
+![image](https://github.com/user-attachments/assets/918aa0ac-f4dc-44f9-840b-18f8cdf23370)
+
+
 ### **Usage**  
 1. **Install Dependencies**  
    ```bash
