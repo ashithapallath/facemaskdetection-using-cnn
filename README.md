@@ -30,6 +30,12 @@ This project implements a **Convolutional Neural Network (CNN)** to detect wheth
 | **Macro Avg**    | 0.91      | 0.90   | 0.90     | 763     |
 | **Weighted Avg** | 0.91      | 0.90   | 0.90     | 763     |
 
+![image](https://github.com/user-attachments/assets/f15a7579-800d-4e28-888c-adf0edfb6340)
+
+**Accuracy & Loss Plots:** 
+
+![image](https://github.com/user-attachments/assets/330ea467-7030-4f21-b6ae-8dc09046d912)
+
 ### **Usage**  
 1. **Install Dependencies**  
    ```bash
